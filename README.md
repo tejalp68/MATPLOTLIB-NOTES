@@ -51,8 +51,6 @@ The following visualization techniques were practiced:
 ## 📂 Project Structure  
 
 ```
-
-matplotlib-practice/
 │
 ├── MATPLOTLIB.ipynb   # Jupyter notebook practice file
 ├── MATPLOTLIB.py      # Converted Python script
