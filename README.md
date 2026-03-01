@@ -10,7 +10,6 @@ The purpose of this project is to understand how to create different types of pl
 This file serves as structured practice code while learning core visualization concepts in Python.
 
 ---
-
 ## 🎯 Objective  
 
 To gain practical understanding of:
