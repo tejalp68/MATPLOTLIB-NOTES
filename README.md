@@ -86,8 +86,8 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Tejal Pagar**
-AI/ML Enthusiast | Data Science Learner
+**Tejal Pagar**    
+AI/ML Enthusiast | Data Science Learner   
 📍 India
 
 ---
