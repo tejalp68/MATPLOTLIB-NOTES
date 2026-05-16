@@ -77,10 +77,10 @@ jupyter notebook
 
 ## 📌 Key Learnings
 
-✔ Understanding visualization fundamentals
-✔ Improving data storytelling skills
-✔ Customizing plots for better readability
-✔ Practical implementation of plotting concepts
+✔ Understanding visualization fundamentals.    
+✔ Improving data storytelling skills.  
+✔ Customizing plots for better readability.  
+✔ Practical implementation of plotting concepts.  
 
 ---
 
