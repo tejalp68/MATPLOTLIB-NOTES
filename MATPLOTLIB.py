@@ -1,26 +1,17 @@
-#!/usr/bin/env python
-# coding: utf-8
+ # Matplotlib
 
-# # Matplotlib
 
-# In[1]:
 
 
 import matplotlib.pyplot as plt
 
 
 # ## linear Graph
-
-# In[2]:
-
-
 x = [1,2,3,4]
 y = [10,8,5,6]
 plt.plot(x,y,color ="red" ,marker="o")
 plt.show()
 
-
-# In[3]:
 
 
 x = [1,9,3,4]
